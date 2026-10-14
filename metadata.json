@@ -1,0 +1,6 @@
+{
+  "name": "EduVault",
+  "description": "منصة تنظيم ومشاركة الملفات التعليمية بحسابات مستخدمين محمية بكلمة سر، كويزات تفاعلية، وعارض PDF، صور وفيديوهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
